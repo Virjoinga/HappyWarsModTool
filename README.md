@@ -1,0 +1,2 @@
+# HappyWarsModTool
+Hey all! I am creating a mod tool for Happy Wars, a beloved game from my childhood. As a lot of you know by now, Happy Wars shut down on PC back on December 16th 2018 on Windows 10 and Xbox 360. The purpose of this tool is to bring the game back to PC in an offline mode and have the ability to mod the game. Currently only the Steam release is supported by the tool, Windows 10 Store release may come in the future.
